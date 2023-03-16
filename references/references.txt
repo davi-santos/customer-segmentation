@@ -1,0 +1,7 @@
+This jupyter notebook works I used as references:
+
+Customer Segmentation Clustering - by Karnika Kapoor (https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering)
+
+Types of Customers and what they need? | R - by Ishara Neranjana (https://www.kaggle.com/code/sisharaneranjana/types-of-customers-and-what-they-need-r)
+
+Customer-Personality analysis + segmentation - by Sonali Sighn (https://www.kaggle.com/code/sonalisingh1411/customer-personality-analysis-segmentation)
