@@ -3,6 +3,7 @@
 
 # ignore data
 data/raw/marketing_campaign.csv
+data/interim/01_initial_cleaning.pkl
 
 # virtual python environment
 venv
