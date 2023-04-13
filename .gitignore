@@ -4,6 +4,11 @@
 # ignore data
 data/raw/marketing_campaign.csv
 data/interim/01_initial_cleaning.pkl
+data/interim/02_analyzed_data.pkl
+data/processed/01_built_features.pkl
 
 # virtual python environment
 venv
+
+# ignore models
+models/kmeans_3_segments.pickle
